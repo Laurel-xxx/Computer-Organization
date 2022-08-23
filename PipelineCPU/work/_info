@@ -1,0 +1,560 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/VerilogExp/t
+T_opt
+!s110 1655214521
+VeLnEIV=[Z;9<F5m[G8QJj2
+04 9 4 work testbench fast 0
+=1-509a4ccfb679-62a891b7-351-1bec
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vALU
+Z2 !s110 1655198267
+!i10b 1
+!s100 dT?SgPUPhK:MIN0LfQ1Ei0
+ImQGbcFdUJoc4YA?d?NfMe0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1654938599
+8D:/VerilogExp/t/ALU.v
+FD:/VerilogExp/t/ALU.v
+L0 1
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+Z5 !s108 1655198267.000000
+Z6 !s107 D:/VerilogExp/t/testbench.v|D:/VerilogExp/t/regfile.v|D:/VerilogExp/t/PipelineCPU.v|D:/VerilogExp/t/PC.v|D:/VerilogExp/t/nextPC.v|D:/VerilogExp/t/mux.v|D:/VerilogExp/t/multiply.v|D:/VerilogExp/t/MEM_WR.v|D:/VerilogExp/t/load_use.v|D:/VerilogExp/t/im.v|D:/VerilogExp/t/IF_ID.v|D:/VerilogExp/t/ID_EX.v|D:/VerilogExp/t/forwarding_forB.v|D:/VerilogExp/t/forwarding_CP0.v|D:/VerilogExp/t/forwarding.v|D:/VerilogExp/t/extend.v|D:/VerilogExp/t/EX_MEM.v|D:/VerilogExp/t/dm.v|D:/VerilogExp/t/decode.v|D:/VerilogExp/t/ControlHazard.v|D:/VerilogExp/t/Control.v|D:/VerilogExp/t/CH.v|D:/VerilogExp/t/ALU.v|
+Z7 !s90 -reportprogress|300|-work|work|D:/VerilogExp/t/ALU.v|D:/VerilogExp/t/CH.v|D:/VerilogExp/t/Control.v|D:/VerilogExp/t/ControlHazard.v|D:/VerilogExp/t/decode.v|D:/VerilogExp/t/dm.v|D:/VerilogExp/t/EX_MEM.v|D:/VerilogExp/t/extend.v|D:/VerilogExp/t/forwarding.v|D:/VerilogExp/t/forwarding_CP0.v|D:/VerilogExp/t/forwarding_forB.v|D:/VerilogExp/t/ID_EX.v|D:/VerilogExp/t/IF_ID.v|D:/VerilogExp/t/im.v|D:/VerilogExp/t/load_use.v|D:/VerilogExp/t/MEM_WR.v|D:/VerilogExp/t/multiply.v|D:/VerilogExp/t/mux.v|D:/VerilogExp/t/nextPC.v|D:/VerilogExp/t/PC.v|D:/VerilogExp/t/PipelineCPU.v|D:/VerilogExp/t/regfile.v|D:/VerilogExp/t/testbench.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vCH
+R2
+!i10b 1
+!s100 GnEQjX442e:JD1jM>>`ed3
+IYCn=D`[ZFAH56JT3jFBSJ2
+R3
+R0
+w1655123726
+8D:/VerilogExp/t/CH.v
+FD:/VerilogExp/t/CH.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@c@h
+vControl
+R2
+!i10b 1
+!s100 LV0<KH4k^YURMJFg2M?]31
+I@:Q0f_CRXeeaikXP7_RG@1
+R3
+R0
+w1655194974
+8D:/VerilogExp/t/Control.v
+FD:/VerilogExp/t/Control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@control
+vControlHazard
+R2
+!i10b 1
+!s100 <[K0odBUMQFMT363S6?eH0
+ISBTgSfVU1io?>KP3b2W;A2
+R3
+R0
+w1655121237
+8D:/VerilogExp/t/ControlHazard.v
+FD:/VerilogExp/t/ControlHazard.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@control@hazard
+vDecoder
+R2
+!i10b 1
+!s100 Q9@M]?m[R6A9j]HmPf44:0
+I?^D76JdYhzm?oi`;`O>1m2
+R3
+R0
+w1655101367
+8D:/VerilogExp/t/decode.v
+FD:/VerilogExp/t/decode.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@decoder
+vdm_4k
+R2
+!i10b 1
+!s100 eHJ<jVW_B]JK6J_gIPhjh3
+IMGe6VUD[6@8YZ7QcjMXE62
+R3
+R0
+w1654935709
+8D:/VerilogExp/t/dm.v
+FD:/VerilogExp/t/dm.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vEX_MEM
+R2
+!i10b 1
+!s100 2600PI^MUT5;Z1BV`5S1B3
+Ikl6Q_3<jPhCaK_LXmNS5_3
+R3
+R0
+w1655044346
+8D:/VerilogExp/t/EX_MEM.v
+FD:/VerilogExp/t/EX_MEM.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@e@x_@m@e@m
+vextend16to32
+R2
+!i10b 1
+!s100 VUgnLo6P0<X=9=AgI:]a72
+IWnVB6YABTlKTGWbjLQlHG3
+R3
+R0
+Z9 w1654934770
+Z10 8D:/VerilogExp/t/extend.v
+Z11 FD:/VerilogExp/t/extend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vforwarding
+R2
+!i10b 1
+!s100 =iD5]b7C2FBLK<LRk26JJ0
+I;33^92XBg3T^`c8NFC4jQ3
+R3
+R0
+w1655196855
+8D:/VerilogExp/t/forwarding.v
+FD:/VerilogExp/t/forwarding.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vforwarding_CP0
+R2
+!i10b 1
+!s100 ?Ck<P7SJcXmE@TEIRMRkX2
+IJ[F4JkF[jzDhNeZAjV[DN0
+R3
+R0
+w1655120711
+8D:/VerilogExp/t/forwarding_CP0.v
+FD:/VerilogExp/t/forwarding_CP0.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+nforwarding_@c@p0
+vforwarding_forB
+R2
+!i10b 1
+!s100 a4cBjDieT1Fd`3mMRRAcU3
+IU74m?Kd[HO1X20CPbgci33
+R3
+R0
+w1655197896
+8D:/VerilogExp/t/forwarding_forB.v
+FD:/VerilogExp/t/forwarding_forB.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+nforwarding_for@b
+vID_EX
+R2
+!i10b 1
+!s100 lz<[A^:QXiMZ^8Y@F[j3N3
+ILYKgl[DB_@GhOC<>XbWFn3
+R3
+R0
+w1655051003
+8D:/VerilogExp/t/ID_EX.v
+FD:/VerilogExp/t/ID_EX.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@i@d_@e@x
+vIF_ID
+R2
+!i10b 1
+!s100 Oz[Z9cDj5@2R8oVCfg6HK0
+IWN7AII?9E7EzHH]2V]ZbZ2
+R3
+R0
+w1655041073
+8D:/VerilogExp/t/IF_ID.v
+FD:/VerilogExp/t/IF_ID.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@i@f_@i@d
+vim_4k
+R2
+!i10b 1
+!s100 ee:k_e>o_F0a[zNCklK2P0
+ITZ>bNDoY?[AWJN]m]Gj0V1
+R3
+R0
+w1654933945
+8D:/VerilogExp/t/im.v
+FD:/VerilogExp/t/im.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vLoad_Use
+R2
+!i10b 1
+!s100 Zl0?@73P]d5iO@iYKQ<hS0
+IGWXIPGmfMo<c]5R61;`I`2
+R3
+R0
+w1655042853
+8D:/VerilogExp/t/load_use.v
+FD:/VerilogExp/t/load_use.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@load_@use
+vMEM_WR
+R2
+!i10b 1
+!s100 zN1:WT^LJf74b4YCC2cE]2
+IMkJg[diXKJRP;IM^aEK:G0
+R3
+R0
+w1655048812
+8D:/VerilogExp/t/MEM_WR.v
+FD:/VerilogExp/t/MEM_WR.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@m@e@m_@w@r
+vmultiply
+R2
+!i10b 1
+!s100 =9Z1>i^hGV>T8;ZGRcWL83
+I]Uk:XTVcJ;X;hP;@ZE0Wg2
+R3
+R0
+w1654936293
+8D:/VerilogExp/t/multiply.v
+FD:/VerilogExp/t/multiply.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vmux_32bit
+R2
+!i10b 1
+!s100 >R<90dDeGM4FRJo3fI:eD1
+Ib`6WYhzk7V^4<8la8_gaZ0
+R3
+R0
+Z12 w1654936167
+Z13 8D:/VerilogExp/t/mux.v
+Z14 FD:/VerilogExp/t/mux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vmux_5bit
+R2
+!i10b 1
+!s100 FQU:j19<fP>OHSN<O^UfR3
+IK=b6aOTzM2W^b5RboW2[d3
+R3
+R0
+R12
+R13
+R14
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vNPC
+R2
+!i10b 1
+!s100 k;nTM`9[RO?IgT[o=;G[]2
+IDX`^N1cjYEBYLZ`h?_8ZE2
+R3
+R0
+w1655038772
+8D:/VerilogExp/t/nextPC.v
+FD:/VerilogExp/t/nextPC.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@n@p@c
+vPC
+R2
+!i10b 1
+!s100 n@[7Z2ONi2]_Al3UeP]0T3
+IOhO0g26MHa27@feUC1;Kg0
+R3
+R0
+w1655123175
+8D:/VerilogExp/t/PC.v
+FD:/VerilogExp/t/PC.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@p@c
+vPipelineCPU
+R2
+!i10b 1
+!s100 5W?23b?TMKZ?WoElQTBcj3
+I_gn0Y<J0@mUYBWXG;4MD^0
+R3
+R0
+w1655198108
+8D:/VerilogExp/t/PipelineCPU.v
+FD:/VerilogExp/t/PipelineCPU.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@pipeline@c@p@u
+vRegFile
+R2
+!i10b 1
+!s100 EQ>obkSf0@FMNjd>>M?Ji1
+I2SzKL6kF?3SZ@?6monneF1
+R3
+R0
+w1655120219
+8D:/VerilogExp/t/regfile.v
+FD:/VerilogExp/t/regfile.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+n@reg@file
+vsignext
+R2
+!i10b 1
+!s100 T=G6^?jG[35?`Ge39k;Mj3
+I8H0hH9dYF1cA[Ri61759]1
+R3
+R0
+R9
+R10
+R11
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
+vtestbench
+R2
+!i10b 1
+!s100 4Ljm=aSiRQAj2EKHh<:lZ0
+IQKR8XoK]OeRISImCZIUR52
+R3
+R0
+w1655197868
+8D:/VerilogExp/t/testbench.v
+FD:/VerilogExp/t/testbench.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+R1
